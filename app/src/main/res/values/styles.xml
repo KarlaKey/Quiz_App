@@ -1,0 +1,94 @@
+<resources>
+    <!-- Base application theme. -->
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <!-- Customize your theme here. -->
+
+        <item name="colorPrimary">#85adad</item>
+        <item name="colorPrimaryDark">#527a7a</item>
+        <item name="colorAccent">#527a7a</item>
+    </style>
+
+    <style name="background_radioGroup">
+        <item name="android:background">#f0f5f5</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:paddingTop">@dimen/radioGroup_padding_6dp</item>
+    </style>
+
+    <style name="headline">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAppearanceLarge">?android:textAppearanceLarge</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_marginTop">@dimen/headline_marginTop</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="subtitle">
+        <item name="android:textAppearance">?android:textAppearanceSearchResultSubtitle</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="brand_image">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:adjustViewBounds">true</item>
+    </style>
+
+
+    <style name="question_line_number">
+        <item name="android:textSize">@dimen/question_number_textSize_20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/questionColor</item>
+        <item name="android:background">@color/backgroundNumber</item>
+    </style>
+
+    <style name="question_line_text">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:gravity">start</item>
+        <item name="android:paddingLeft">@dimen/padding_question_6dp</item>
+        <item name="android:paddingRight">@dimen/padding_question_6dp</item>
+        <item name="android:paddingTop">@dimen/padding_Top_0</item>
+    </style>
+
+    <style name="edit_text">
+        <item name="android:inputType">textCapWords</item>
+        <item name="android:textColor">@color/edit_color</item>
+        <item name="android:textSize">@dimen/edit_textSize</item>
+        <item name="android:gravity">center</item>
+
+        <item name="android:paddingLeft">@dimen/edit_padding</item>
+        <item name="android:paddingRight">@dimen/edit_padding</item>
+        <item name="android:paddingTop">@dimen/edit_padding</item>
+        <item name="android:ems">20</item>
+    </style>
+
+    <style name="edit_q5_text">
+        <item name="android:background">#f0f5f5</item>
+        <item name="android:inputType">textCapWords</item>
+        <item name="android:textColor">@color/edit_color</item>
+        <item name="android:textSize">@dimen/edit_textSize</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+
+        <item name="android:paddingLeft">@dimen/edit_padding</item>
+        <item name="android:paddingRight">@dimen/edit_padding</item>
+        <item name="android:paddingTop">@dimen/edit_padding</item>
+
+    </style>
+
+    <style name="try_again_button">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_marginBottom">@dimen/marginBottom_brand_image</item>
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:layout_marginTop">25dp</item>
+
+
+    </style>
+
+</resources>
+

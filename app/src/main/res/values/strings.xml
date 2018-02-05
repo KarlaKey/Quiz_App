@@ -1,0 +1,49 @@
+<resources>
+
+    <string name="app_name">Brand Quiz App</string>
+    <string name="headline_text">Are you a brand nerd?</string>
+    <string name="subtitle">Test your knowledge here</string>
+    <string name="q1">1</string>
+    <string name="q2">2</string>
+    <string name="q3">3</string>
+    <string name="q4">4</string>
+    <string name="q5">5</string>
+    <string name="q6">6</string>
+    <string name="question_one">Which brand is there behind? </string>
+    <string name="question_one_answer_one">Alfa Romeo</string>
+    <string name="question_one_answer_two">Volkswagen</string>
+    <string name="question_one_answer_three">BMW</string>
+    <string name="question_one_answer_four">Ford</string>
+    <string name="question_two">Which of these platforms was the first to be launched?</string>
+    <string name="question_two_answer_one">Facebook</string>
+    <string name="question_two_answer_two">Twitter</string>
+    <string name="question_two_answer_three">Instagram</string>
+    <string name="question_two_answer_four">WhatsApp</string>
+    <string name="question_three">The novel Moby-Dick were the inspiration for the companies name in 1971.</string>
+    <string name="answer_true">True</string>
+    <string name="answer_false">False</string>
+    <string name="question_four">The companies Adidas and Puma were founded by brothers.</string>
+    <string name="question_five">In which country did IKEA launch its furniture empire?</string>
+    <string name="question_five_hint">Write your answer here</string>
+    <string name="question_six">Which of these labels dealing with fashion? (pick 2 answers)</string>
+    <string name="question_six_answer_one">Chanel</string>
+    <string name="question_six_answer_two">CNN</string>
+    <string name="question_six_answer_three">John Deere</string>
+    <string name="question_six_answer_four">Burberry</string>
+    <string name="score_button">Get your score</string>
+    <string name="reset_button">Try again</string>
+    <string name="toast0">,none right! To be a brand nerd it\'s still a long journey. </string>
+    <string name="toast1">come on! You only got %1$d correct. Nerds would play again! </string>
+    <string name="toast2">,not that bad! You got %1$d correct answers. You are familiar with brands but could do better. </string>
+    <string name="toast3">,wow! You got %1$d correct answers. Yes, you are definitely a brand expert! </string>
+    <string name="end_brand_image">End brand image</string>
+    <string name="brands_top">Opening Brand overview</string>
+    <string name="bmw_icon">BMW</string>
+    <string name="enterName">Enter your name</string>
+    <string name="share_button">share</string>
+    <string name="share_message">Thank you for sharing!</string>
+    <string name="shareMessageFriends">Would you like to top my score?</string>
+    <string name="edit_reminder">Please write your name at the top</string>
+    <string name="answer_q5">Sweden</string>
+
+</resources>

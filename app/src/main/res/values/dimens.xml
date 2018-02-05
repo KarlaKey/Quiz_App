@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="parent_padding">10dp</dimen>
+    <dimen name="headline_marginTop">20dp</dimen>
+    <dimen name="padding_16dp">16dp</dimen>
+    <dimen name="edit_padding">16dp</dimen>
+    <dimen name="edit_textSize">20sp</dimen>
+    <dimen name="question_marginTop_10dp">10dp</dimen>
+    <dimen name="question_number_textSize_20sp">20sp</dimen>
+    <dimen name="padding_question_6dp">6dp</dimen>
+    <dimen name="padding_Top_0">0dp</dimen>
+    <dimen name="radioGroup_padding_6dp">6dp</dimen>
+    <dimen name="marginTop_image_15dp">15dp</dimen>
+    <dimen name="marginBottom_brand_image">10dp</dimen>
+    <dimen name="marginBottom_image_15dp">15dp</dimen>
+
+
+</resources>
